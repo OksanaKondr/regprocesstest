@@ -1,0 +1,13 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Booking tests" verbose="1">
+	<test name="Search tetst">
+		<classes>
+			<class name="tests.TRRegProcessTest" />
+		<!--	<class name="tests.Roma_Test" />  -->
+		<!-- 	<class name="tests.UZdTest" />  -->
+	<!-- 		<class name="tests.YarikBookingTest" /> -->
+		</classes>
+	</test>
+</suite>

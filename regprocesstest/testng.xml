@@ -5,9 +5,6 @@
 	<test name="Search tetst">
 		<classes>
 			<class name="tests.TRRegProcessTest" />
-		<!--	<class name="tests.Roma_Test" />  -->
-		<!-- 	<class name="tests.UZdTest" />  -->
-	<!-- 		<class name="tests.YarikBookingTest" /> -->
 		</classes>
 	</test>
 </suite>
